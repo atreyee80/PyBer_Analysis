@@ -12,6 +12,7 @@ The primary things to be done is.
 
 ## Results
 First two dataset is merged ride_data.csv and city_data.csv based on city.
+![](Dataframe_city_ride.png?raw=true)
 ## Then total rides based on city type is calculated.
 ### Rural        125
 ### Suburban     625
