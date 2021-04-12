@@ -54,7 +54,9 @@ First two dataset is merged ride_data.csv and city_data.csv based on city.
 ## Summary 
 1.The analysis shows that the total fare for each city type is very low at the begining of the year Jan and Feb ,so in order to increase the business there 
 should be some incentives added so that more ride takes place.
+
 2.The average fare per ride is very high in rural area $34.62,and the total drivers is less then the total rides take place in rural area,so inorder to increase
  the business in rural area more drivers need to be recruited.
+ 
 3.Again in the urban area the total fare per driver is comparatively low $16.57 ,as we can see that the total number of drivers in urban is quite high 2405 and total rides is 1625,in order to increase the total fare per driver in urban area the total number of drivers should be reduce inorder to increase the average fare per driver.
 
