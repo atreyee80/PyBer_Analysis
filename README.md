@@ -28,11 +28,11 @@ First two dataset is merged ride_data.csv and city_data.csv based on city.
 ### Suburban    19356.33
 ### Urban       39854.38
 ![](Amt_fare_city_type.png?raw=true)
-## Then average fare Per Fare Per Ride
+## Then average fare Per Ride
 ### Rural       34.623440
 ### Suburban    30.970128
 ### Urban       24.525772
-
+![](Amt_fare_city_type.png?raw=true)
 ## Then average fare Per Driver
 
 ### Rural       55.486282
