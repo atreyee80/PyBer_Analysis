@@ -40,7 +40,7 @@ image
 ## A new dataframe is created using "resample()" function by week 'W' and get the sum of fare for each week
 image
 ## Finally using the object-oriented interface method,  we plot the resample DataFrame using the df.plot() function
-image
+![](Pyber_fare_summary.png?raw=true)
 
 
 ## Summary 
