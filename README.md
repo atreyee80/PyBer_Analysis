@@ -17,6 +17,7 @@ First two dataset is merged ride_data.csv and city_data.csv based on city.
 ### Rural        125
 ### Suburban     625
 ### Urban        1625
+![](Total_ride.png?raw=true)
 ## Then total number of drivers based on each city type is calculated.
 ### Rural        78
 ### Suburban     490
