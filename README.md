@@ -22,6 +22,7 @@ First two dataset is merged ride_data.csv and city_data.csv based on city.
 ### Rural        78
 ### Suburban     490
 ### Urban        2405
+![](Total_driver.png?raw=true)
 ## Then the total amount of fare is calculated based on city type.
 ### Rural        4327.93
 ### Suburban    19356.33
