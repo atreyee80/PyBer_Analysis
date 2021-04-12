@@ -38,6 +38,7 @@ First two dataset is merged ride_data.csv and city_data.csv based on city.
 ### Rural       55.486282
 ### Suburban    39.502714
 ### Urban       16.571468
+![](Avg_fare_per_driver.png?raw=true)
 
 ## Total Weekly fare for each city types is calculated
 image
