@@ -4,8 +4,8 @@ We will do analysis on Pybar a python based ride sharing app.The purpose of this
 The primary things to be done is.
 
 1.To show the relationship between different types of cities and total number of drivers and riders.
-2.
-3.To show the percentage of total fare by riders and drivers by the type of cities.
+
+2.To show the percentage of total fare by riders and drivers by the type of cities.
   This analysis will help Pyber improve access about there ride sharing services and determine affordability for underserved neighborhoods
 
 
