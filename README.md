@@ -32,6 +32,7 @@ First two dataset is merged ride_data.csv and city_data.csv based on city.
 ### Urban       24.525772
 
 ## Then average fare Per Driver
+
 ### Rural       55.486282
 ### Suburban    39.502714
 ### Urban       16.571468
