@@ -34,8 +34,13 @@ First two dataset is merged ride_data.csv and city_data.csv based on city.
 ### Suburban    39.502714
 ### Urban       16.571468
 
+## Total Weekly fare for each city types is calculated
+image
 
-
+## A new dataframe is created using "resample()" function by week 'W' and get the sum of fare for each week
+image
+## Finally using the object-oriented interface method,  we plot the resample DataFrame using the df.plot() function
+image
 
 
 ## Summary 
